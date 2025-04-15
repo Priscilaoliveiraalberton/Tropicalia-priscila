@@ -1,3 +1,17 @@
+
+Conversa aberta. Uma mensagem não lida.
+
+Pular para o conteúdo
+Como usar o E-mail de SEED com leitores de tela
+
+1 de 6.744
+(sem assunto)
+Caixa de entrada
+
+ALANA APARECIDA AMERICO RIBEIRO
+08:10 (há 0 minuto)
+para mim
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
@@ -140,29 +154,28 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
-
-.menu-acessibilidade {
+.menu-acessibilidade{
     position: fixed;
-    top: 2rem;
-    right: 20px;
+    top:2rem;
+    right:20px;
     z-index: 1000;
-}
-
-.rotacao-botao {
+    }
+    
+    .rotacao-botao{
     transform: rotate(-90deg);
     transform-origin: right center;
-}
-
-.opcoes-acessibilidade {
-    margin-top: 10px;
+    }
+    
+    .opcoes-acessibilidade{
+    margin-top:10px;
     display: flex;
     flex-direction: column;
-}
-
-.opcoes-acessibilidade button {
+    }
+    
+    .opcoes-acessibilidade button{
     margin-bottom: 5px;
-}
-
-.apresenta-lista {
+    }
+    
+    .apresenta-lista{
     display: none;
-}
+    }
