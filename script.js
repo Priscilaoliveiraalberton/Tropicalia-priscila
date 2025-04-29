@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
     })
 
     const botaoSelecionado = botaoDeAcessibilidade.getAttribute('aria-expand') === 'true';
-    botaoDeAcessibilidade.setAttribute('aria-expande', !botaoSelecionado)
+    botaoDeAcessibilidade.setAttribute('aria-expande', !botaoSelecionado);
 
     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
     const diminuiFonteBotao = document.getElementById('diminuir-fonte');
